@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shivamkalangan@gmail.com**
 
-- ⚡ Fun fact **The first computer "bug" was a real moth found in the Harvard Mark II in 1947, inspiring the term "debugging." 🐛**
+- ⚡ Fun fact: **The first computer "bug" was a real moth found in the Harvard Mark II in 1947, inspiring the term "debugging." 🐛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
