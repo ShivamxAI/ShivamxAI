@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kalangan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **Kotlin, react, Blockchain Security**
+- 🌱 I’m currently learning **Python, react, Blockchain Security**
 
 - 💬 Ask me about **JavaScript , java, html,**
 
