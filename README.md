@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, react, Blockchain Security**
 
-- 💬 Ask me about **JavaScript , java, html,**
+- 💬 Ask me about **JavaScript , java, html, python**
 
 - 📫 How to reach me **shivamkalangan@gmail.com**
 
